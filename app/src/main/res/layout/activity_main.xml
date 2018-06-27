@@ -56,11 +56,12 @@
             android:orientation="horizontal"
             android:gravity="center"
             >
+
             <RadioButton
                 android:id="@+id/radio12h"
-                android:text="12Hour"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:text="12Hour" />
             <RadioButton
                 android:id="@+id/radio24h"
                 android:text="24Hour"
